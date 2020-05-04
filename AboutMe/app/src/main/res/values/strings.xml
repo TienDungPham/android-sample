@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="pham_tien_dung">Phạm Tiến Dũng</string>
+    <string name="start_image">Start Image</string>
+    <string name="what_is_your_name">What is your name ?</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac eleifend dolor. Donec at rutrum leo, non laoreet magna. Ut venenatis aliquet faucibus. Phasellus tristique quis sapien sit amet dignissim. Nunc a urna ornare, sodales ex sed, commodo dolor. In vel orci tristique, tempor nisi sit amet, vulputate augue. Vestibulum euismod porttitor urna et elementum. Phasellus felis quam, condimentum in iaculis vel, porttitor in lorem. Nullam id ante consectetur, pretium enim id, sollicitudin odio. Vivamus auctor erat urna. Morbi vel elementum dui. Sed aliquam odio mauris, accumsan euismod est sodales et. Vestibulum auctor mauris non odio euismod ultrices vel vel justo. Suspendisse gravida iaculis risus, vitae malesuada odio tempor eu. Nullam lacinia sem augue, non varius nunc interdum eget. Cras laoreet massa ut laoreet pulvinar.</string>
+    <string name="done">Done</string>
+</resources>
