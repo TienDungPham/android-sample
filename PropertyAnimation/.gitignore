@@ -1,0 +1,13 @@
+/*
+!/app
+/app/*
+!/app/src
+!/app/build.gradle
+!/app/proguard-rules.pro
+!/gradle
+!/build.gradle
+!/gradle.properties
+!/gradlew
+!/gradlew.bat
+!/settings.gradle
+!.gitignore
